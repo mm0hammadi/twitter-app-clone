@@ -1,1 +1,1 @@
-# tweeterApp
+# twitterApp
